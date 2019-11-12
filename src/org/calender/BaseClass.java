@@ -29,7 +29,11 @@ public class BaseClass {
 		driver.get(url);
 
 	}
-	
+	private void message() {
+		System.out.println("added message");
+		// TODO Auto-generated method stub
+
+	}
 	
 
 }
