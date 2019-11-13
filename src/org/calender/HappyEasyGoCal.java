@@ -49,6 +49,8 @@ public class HappyEasyGoCal {
         			count++;
         		}
         	}
+        	
         }
+        System.out.println("Calendar program has some change");
    }
 }
